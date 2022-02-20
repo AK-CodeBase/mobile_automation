@@ -13,7 +13,7 @@ describe('Android test trail', () => {
 
     });
 
-    it('Writing locators using uiautomator elements', async () => {
+    it('Writing locators using uiautomator elementss', async () => {
         
     });
 });
